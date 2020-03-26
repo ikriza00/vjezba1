@@ -10,7 +10,12 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello world");
+=======
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hayy!");
+>>>>>>> 2e93175d7dd75ad3715dd03f82df7b75dc6c6dbd
         }
     }
 }
